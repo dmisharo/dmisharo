@@ -1,4 +1,13 @@
-### Hi there 👋
+### Привет! 👋
+
+### Меня зовут Дмитрий Шаронов.
+
+
+Всегда на связи, e-mail: yadim33@yandex.ru
+
+
+
+
 
 <!--
 **dmisharo/dmisharo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
